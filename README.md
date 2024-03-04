@@ -123,7 +123,8 @@ Dashboard ini anda buat berdasarkan tabel analisa yang telah anda buat sebelumny
 [Lihat pada halaman Looker Data Studio](https://lookerstudio.google.com/reporting/7d5af651-c6da-4f60-ab7f-0f69de712f41).
 
 <p align="center">
-    <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src=""> </kbd> <br>
+    <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src="https://github.com/rafifunsoed/kimia-farma-big-data-analytics/blob/main/1.png"> </kbd> <br>
+    <kbd> <img width="1000" alt="Kimia_Farma_page-0001" src="https://github.com/rafifunsoed/kimia-farma-big-data-analytics/blob/main/2.png"> </kbd> <br>
 </p>
 <br>
 ```
